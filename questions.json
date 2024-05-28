@@ -1,0 +1,304 @@
+{
+    "question": "Inside which HTML element do we put the javascript?",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scriptjs>",
+    "answer": 1
+},
+{
+    "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+    "choice1": "<script href='script.js'>",
+    "choice2": "<script src='script.js'>",
+    "choice3": "<script name='script.js'>",
+    "choice4": "<script file='script.js'>",
+    "answer": 2
+},
+{
+    "question": "How do you write 'Hello World' in an alert box?",
+    "choice1": "alertBox('Hello World');",
+    "choice2": "msgBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+},
+{
+    "question": "How do you create a function in JavaScript?",
+    "choice1": "function = myFunction()",
+    "choice2": "function myFunction()",
+    "choice3": "function:myFunction()",
+    "choice4": "create function myFunction()",
+    "answer": 2
+},
+{
+    "question": "How do you call a function named 'myFunction'?",
+    "choice1": "call myFunction()",
+    "choice2": "myFunction()",
+    "choice3": "call function myFunction()",
+    "choice4": "run myFunction()",
+    "answer": 2
+},
+{
+    "question": "How do you write an IF statement in JavaScript?",
+    "choice1": "if (i == 5)",
+    "choice2": "if i == 5 then",
+    "choice3": "if i = 5",
+    "choice4": "if i === 5",
+    "answer": 1
+},
+{
+    "question": "How does a FOR loop start?",
+    "choice1": "for (i = 0; i <= 5; i++)",
+    "choice2": "for (i = 0; i <= 5)",
+    "choice3": "for i = 1 to 5",
+    "choice4": "for (i <= 5; i++)",
+    "answer": 1
+},
+{
+    "question": "What is the correct way to write a JavaScript array?",
+    "choice1": "var colors = ['red', 'green', 'blue']",
+    "choice2": "var colors = 'red', 'green', 'blue'",
+    "choice3": "var colors = {'red', 'green', 'blue'}",
+    "choice4": "var colors = (1:'red', 2:'green', 3:'blue')",
+    "answer": 1
+},
+{
+    "question": "How do you round the number 7.25, to the nearest integer?",
+    "choice1": "Math.round(7.25)",
+    "choice2": "round(7.25)",
+    "choice3": "Math.rnd(7.25)",
+    "choice4": "rnd(7.25)",
+    "answer": 1
+},
+{
+    "question": "How do you find the number with the highest value of x and y?",
+    "choice1": "Math.ceil(x, y)",
+    "choice2": "top(x, y)",
+    "choice3": "Math.max(x, y)",
+    "choice4": "ceil(x, y)",
+    "answer": 3
+},
+{
+    "question": "What is the correct JavaScript syntax for opening a new window called 'myWindow'?",
+    "choice1": "myWindow = new Window()",
+    "choice2": "myWindow = window.new()",
+    "choice3": "myWindow = new Window('myWindow')",
+    "choice4": "myWindow = window.open()",
+    "answer": 4
+},
+{
+    "question": "JavaScript is interpreted by _____.",
+    "choice1": "Server",
+    "choice2": "Client",
+    "choice3": "Object",
+    "choice4": "None of the above",
+    "answer": 2
+},
+{
+    "question": "What is the correct syntax for adding comments in JavaScript?",
+    "choice1": "// This is a comment",
+    "choice2": "<!-- This is a comment -->",
+    "choice3": "' This is a comment",
+    "choice4": "** This is a comment **",
+    "answer": 1
+},
+{
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "choice1": "onchange",
+    "choice2": "onmouseover",
+    "choice3": "onclick",
+    "choice4": "onmouseclick",
+    "answer": 3
+},
+{
+    "question": "How do you declare a JavaScript variable?",
+    "choice1": "v carName;",
+    "choice2": "variable carName;",
+    "choice3": "var carName;",
+    "choice4": "declare carName;",
+    "answer": 3
+},
+{
+    "question": "What will the following code return: Boolean(10 > 9)?",
+    "choice1": "true",
+    "choice2": "false",
+    "choice3": "NaN",
+    "choice4": "undefined",
+    "answer": 1
+},
+{
+    "question": "How do you find the square root of a number in JavaScript?",
+    "choice1": "Math.sqrt(x)",
+    "choice2": "x ** 0.5",
+    "choice3": "sqrt(x)",
+    "choice4": "Math.squareRoot(x)",
+    "answer": 1
+},
+{
+    "question": "What is the correct way to write a JavaScript if statement to execute some code if 'x' is NOT equal to 5?",
+    "choice1": "if x <> 5",
+    "choice2": "if (x != 5)",
+    "choice3": "if (x <> 5)",
+    "choice4": "if (x not 5)",
+    "answer": 2
+},
+{
+    "question": "What does HTML stand for?",
+    "choice1": "Hyperlinks and Text Markup Language",
+    "choice2": "Hyper Text Markup Language",
+    "choice3": "Home Tool Markup Language",
+    "choice4": "Hyperlinking Text Markup Language",
+    "answer": 2
+},
+{
+    "question": "What does CSS stand for?",
+    "choice1": "Colorful Style Sheets",
+    "choice2": "Creative Style Sheets",
+    "choice3": "Cascading Style Sheets",
+    "choice4": "Computer Style Sheets",
+    "answer": 3
+},
+{
+    "question": "What is the correct HTML for creating a hyperlink?",
+    "choice1": "<a url='http://www.example.com'>Example</a>",
+    "choice2": "<a href='http://www.example.com'>Example</a>",
+    "choice3": "<a link='http://www.example.com'>Example</a>",
+    "choice4": "<hyperlink>http://www.example.com</hyperlink>",
+    "answer": 2
+},
+{
+    "question": "Which HTML element is used to define important text?",
+    "choice1": "<i>",
+    "choice2": "<strong>",
+    "choice3": "<important>",
+    "choice4": "<b>",
+    "answer": 2
+},
+{
+    "question": "What is the correct HTML for adding a background color?",
+    "choice1": "<background>yellow</background>",
+    "choice2": "<body style='background-color:yellow;'>",
+    "choice3": "<body bg='yellow'>",
+    "choice4": "<bg color='yellow'>",
+    "answer": 2
+},
+{
+    "question": "Which property is used to change the background color of an element?",
+    "choice1": "color",
+    "choice2": "bgcolor",
+    "choice3": "background-color",
+    "choice4": "background",
+    "answer": 3
+},
+{
+    "question": "How do you add a background color in CSS?",
+    "choice1": "bg-color: yellow;",
+    "choice2": "background-color: yellow;",
+    "choice3": "color: yellow;",
+    "choice4": "bg: yellow;",
+    "answer": 2
+},
+{
+    "question": "How do you add a comment in CSS?",
+    "choice1": "'This is a comment'",
+    "choice2": "// This is a comment //",
+    "choice3": "/* This is a comment */",
+    "choice4": "<!-- This is a comment -->",
+    "answer": 3
+},
+{
+    "question": "Which property is used to change the font of an element?",
+    "choice1": "font-family",
+    "choice2": "font-style",
+    "choice3": "font-weight",
+    "choice4": "font",
+    "answer": 1
+},
+{
+    "question": "How do you make the text bold in CSS?",
+    "choice1": "font-style: bold;",
+    "choice2": "font-weight: bold;",
+    "choice3": "text-style: bold;",
+    "choice4": "text-weight: bold;",
+    "answer": 2
+},
+{
+    "question": "How do you align text to the center of a page in CSS?",
+    "choice1": "text-align: center;",
+    "choice2": "align: center;",
+    "choice3": "text-align: middle;",
+    "choice4": "align: middle;",
+    "answer": 1
+},
+{
+    "question": "Which property is used to change the size of text?",
+    "choice1": "font-size",
+    "choice2": "text-style",
+    "choice3": "text-size",
+    "choice4": "size",
+    "answer": 1
+},
+{
+    "question": "How do you underline text in CSS?",
+    "choice1": "text-decoration: underline;",
+    "choice2": "underline: true;",
+    "choice3": "text-style: underline;",
+    "choice4": "decoration: underline;",
+    "answer": 1
+},
+{
+    "question": "How do you make a list that lists its items with squares?",
+    "choice1": "list-type: square;",
+    "choice2": "list-style-type: square;",
+    "choice3": "list: square;",
+    "choice4": "style-type: square;",
+    "answer": 2
+},
+{
+    "question": "How do you display a border like this: The top border = 10 pixels, the bottom border = 5 pixels, the left border = 20 pixels, and the right border = 1pixel?",
+    "choice1": "border-width: 10px 5px 20px 1px;",
+    "choice2": "border-width: 10px 5px 1px 20px;",
+    "choice3": "border-width: 5px 1px 10px 20px;",
+    "choice4": "border-width: 20px 5px 1px 10px;",
+    "answer": 1
+},
+{
+    "question": "Which CSS property controls the text size?",
+    "choice1": "font-size",
+    "choice2": "text-style",
+    "choice3": "font-style",
+    "choice4": "text-size",
+    "answer": 1
+},
+{
+    "question": "How do you make each word in a text start with a capital letter?",
+    "choice1": "transform: capitalize;",
+    "choice2": "text-transform: capitalize;",
+    "choice3": "text-style: capitalize;",
+    "choice4": "transform: uppercase;",
+    "answer": 2
+},
+{
+    "question": "How do you make a text italic in CSS?",
+    "choice1": "font-style: italic;",
+    "choice2": "italic: true;",
+    "choice3": "text-style: italic;",
+    "choice4": "style: italic;",
+    "answer": 1
+},
+{
+    "question": "How do you select an element with id 'demo' in CSS?",
+    "choice1": "#demo",
+    "choice2": ".demo",
+    "choice3": "demo",
+    "choice4": "element.demo",
+    "answer": 1
+},
+{
+    "question": "How do you group selectors in CSS?",
+    "choice1": "Separate each selector with a comma",
+    "choice2": "Use parentheses",
+    "choice3": "Separate each selector with a plus sign",
+    "choice4": "Use square brackets",
+    "answer": 1
+}
